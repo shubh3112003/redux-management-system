@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "useparams": "^0.0.2"
+  }
+}
